@@ -1,1 +1,0 @@
-start ./Ruby193\bin\rubyw.exe ./main.rb

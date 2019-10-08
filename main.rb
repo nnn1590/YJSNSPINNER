@@ -21,8 +21,8 @@ class Main < Scene::Base
     }
     @r = @images[0].h - 12#半径
     @image = TransparentImage.new("./image/02.png", :angle => 0, :x => screen.w / 2, :y => 200, :scale => 0.5)
-    @button = Image.new("./image/button.png")
-    @button_back = Image.new("./image/button_back.png", :hide => true)
+    @button = Image.new("./image/Button.png")
+    @button_back = Image.new("./image/Button_back.png", :hide => true)
     @font = ShadowFont.new("SPIN", :size => 45, :color => [0, 0, 0])
     @color = [0, 0, 0]
     @mouse_mode = 0 #押されていない
@@ -52,7 +52,7 @@ class Main < Scene::Base
       @musicVolume = 70
       SDL::Mixer.setVolumeMusic(@musicVolume)
       @playing = -1 #再生中のファイル
-      Dir[File.expand_path('../bgm/', __FILE__) << '/*.*'].each do |file|
+      Dir[File.expand_path('../BGM/', __FILE__) << '/*.*'].each do |file|
         @bgm << SDL::Mixer::Music.load(file)
         @enableBGM = true
       end

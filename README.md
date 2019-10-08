@@ -3,7 +3,7 @@
 Original from: https://www.nicovideo.jp/watch/sm32015234
 
 ## 起動方法
-GNU/Linuxの兄貴たちは、自力で以下の環境をそろえ、rubyコマンドでmain.rbを実行オナシャス！
+自力で以下の環境をそろえ、rubyコマンドでmain.rbを実行オナシャス！
 - Ruby
 - Ruby/SDL
 - [MyGame](http://dgames.jp/ja/projects/mygame/)

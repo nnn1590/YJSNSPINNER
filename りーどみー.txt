@@ -8,7 +8,7 @@
 GNU/Linuxの兄貴たちは、自力で以下の環境をそろえ、rubyコマンドでmain.rbを実行オナシャス！
 
 ==================
-   Ruby 1.9.3
+   Ruby
 ---ライブラリ---
    Ruby/SDL
    MyGame(http://dgames.jp/ja/projects/mygame/)

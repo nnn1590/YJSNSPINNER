@@ -20,7 +20,7 @@ sudo apt install ruby{,-sdl} git svn
 svn checkout http://svn.sourceforge.jp/svnroot/mygame/trunk mygame
 git clone https://github.com/nnn1590/YJSNSPINNER.git
 cd mygame
-sed -i -e 's/Config/RbConfig/g' install_mygame.rb lib/mygame.rb
+sed -i -e 's/Config/Rb&/g' install_mygame.rb lib/mygame.rb
 sudo ruby install install_mygame.rb
 cd ../YJSNSPINNER
 ruby main.rb

@@ -1,6 +1,7 @@
 # YJSNSPINNER
 サウンドトラック生成機能付きハンドスピナー
 オリジナル: https://www.nicovideo.jp/watch/sm32015234
+English `README.md` is here: https://github.com/nnn1590/YJSNSPINNER/blob/master/README.md
 
 ## 起動方法
 自力で以下の環境をそろえ、`ruby`コマンドで`main.rb`を実行オナシャス！`ruby main.rb`

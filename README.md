@@ -1,6 +1,7 @@
 # YJSNSPINNER
 Hand spinner with soundtrack generator
 Original from: https://www.nicovideo.jp/watch/sm32015234
+日本語`README.md`はこ↑こ↓: https://github.com/nnn1590/YJSNSPINNER/blob/master/README.ja.md
 
 ## How to launch
 Setup/install these, and run `main.rb` with `ruby` command!`ruby main.rb`

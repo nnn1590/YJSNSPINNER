@@ -3,6 +3,8 @@
 #############
 
 サウンドトラック生成機能付きハンドスピナー
+日本語 README.md はこ↑こ↓: https://github.com/nnn1590/YJSNSPINNER/blob/master/README.ja.md
+English README.md is here: https://github.com/nnn1590/YJSNSPINNER/blob/master/README.md
 
 #起動方法#
 自力で以下の環境をそろえ、rubyコマンドでmain.rbを実行オナシャス！
